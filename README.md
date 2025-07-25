@@ -1,6 +1,3 @@
-Naravno — u nastavku je cijeli README dokument u dvojezičnom formatu (hrv/engl), s već integriranim blokom prijevoda za sve sesije.
-
-Spreman je za copy-paste u tvoj GitHub repo:
 
 # 🌐 QEiT Resonant Fine-Tuning
 
